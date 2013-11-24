@@ -1,7 +1,7 @@
 Drehbuch
 =========
 
-Projekt  				| Einführung in Git
+Projekt  				        | Einführung in Git  
 Ungefähre Zeitanspruch 	| 50min
 
 
